@@ -29,4 +29,4 @@ active tab.
 /property/:id, and showing the same thing on the new page.
 - Displaying the message when there are no more properties.
 - Hiding the the show more button when there are no properties.
-- Showing only 6 cars when changing the tab.
+- Showing only 6 cards when changing the tab.
