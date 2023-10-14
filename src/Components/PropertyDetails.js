@@ -27,11 +27,11 @@ function PropertyDetails() {
         <span className='address'>{address}</span>
         <div className='details'>
             <span className='detail'><FontAwesomeIcon icon={faBuilding} className='icon' />{number_of_rooms} room</span>
-            <div class="vertical-line"></div>
+            <div className="vertical-line"></div>
             <span className='detail'><FontAwesomeIcon icon={faBed}  className='icon' />{number_of_beds} Bed</span>
-            <div class="vertical-line"></div>
+            <div className="vertical-line"></div>
             <span className='detail'><FontAwesomeIcon icon={faBath} className='icon'  />{number_of_bathrooms} Bath</span>
-            <div class="vertical-line"></div>
+            <div className="vertical-line"></div>
             <span className='detail'><FontAwesomeIcon icon={faMaximize} className='icon'  />{size_in_feet} sft</span>
         </div>
         <hr/>
