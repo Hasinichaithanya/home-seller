@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hasinichaithanya/home-seller.git/static/css/main.f14c5f9c.css",
-    "main.js": "/Hasinichaithanya/home-seller.git/static/js/main.9d654be6.js",
-    "static/js/787.d7415ce9.chunk.js": "/Hasinichaithanya/home-seller.git/static/js/787.d7415ce9.chunk.js",
-    "index.html": "/Hasinichaithanya/home-seller.git/index.html",
-    "main.f14c5f9c.css.map": "/Hasinichaithanya/home-seller.git/static/css/main.f14c5f9c.css.map",
-    "main.9d654be6.js.map": "/Hasinichaithanya/home-seller.git/static/js/main.9d654be6.js.map",
-    "787.d7415ce9.chunk.js.map": "/Hasinichaithanya/home-seller.git/static/js/787.d7415ce9.chunk.js.map"
+    "main.css": "/home-seller.git/static/css/main.f14c5f9c.css",
+    "main.js": "/home-seller.git/static/js/main.70889cbb.js",
+    "static/js/787.d7415ce9.chunk.js": "/home-seller.git/static/js/787.d7415ce9.chunk.js",
+    "index.html": "/home-seller.git/index.html",
+    "main.f14c5f9c.css.map": "/home-seller.git/static/css/main.f14c5f9c.css.map",
+    "main.70889cbb.js.map": "/home-seller.git/static/js/main.70889cbb.js.map",
+    "787.d7415ce9.chunk.js.map": "/home-seller.git/static/js/787.d7415ce9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f14c5f9c.css",
-    "static/js/main.9d654be6.js"
+    "static/js/main.70889cbb.js"
   ]
 }
